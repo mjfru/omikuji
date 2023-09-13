@@ -1,0 +1,80 @@
+@charset "UTF-8";
+
+/* Universal / Index Page */
+
+h1 {
+	color: #ff692d;
+	font-family: 'Permanent Marker', cursive;
+	text-align: center;
+}
+
+#indexContainer {
+	margin: 0px auto;
+	text-align: center;
+	width: 50%;
+	margin-top: 20px;
+}
+
+/* Form Page */
+
+#mainPageContainer {
+	margin: 0px auto;
+	width: 30%;
+	padding: 20px;
+	margin-bottom: 10px;
+}
+
+#mainPageContainer h1 {
+	text-align: center;
+}
+
+form {
+	text-align: center;
+	width: 100%;
+	border: 6px solid #6f2cf2;
+	border-radius: 15px;
+}
+
+label {
+	margin-top: 5px;
+}
+
+
+#nav {
+	margin-bottom: 10px;
+}
+
+#nav a {
+	margin-left: 10px;
+}
+
+input, textarea {
+	width: 200px;
+}
+
+/* Show */
+
+.message {
+	margin: 0px auto;
+	width: 50%;
+	text-align: center;
+	border: 6px solid #6f2cf2;
+	border-radius: 15px;
+}
+
+.message p {
+	font-size: 24px;
+	word-wrap: normal;
+}
+
+span {
+	font-family: 'Permanent Marker', cursive;
+}
+
+#luck {
+	color: gold;
+}
+
+#homelink {
+	margin-bottom: 10px;
+}
